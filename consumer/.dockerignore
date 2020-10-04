@@ -1,0 +1,18 @@
+# Folders
+.git/
+__mocks__/
+dist/
+node_modules/
+tests/
+
+# Files
+**/.DS_Store
+.env*
+.eslintrc*
+.nvmrc
+.prettierrc
+.test.dockerignore
+globalConfig.json
+jest*
+README.MD
+test.Dockerfile
