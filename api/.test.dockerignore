@@ -1,0 +1,14 @@
+# Folders
+.git/
+dist/
+node_modules/
+
+# Files
+**/.DS_Store
+.env*
+.eslintrc*
+.nvmrc
+.prettierrc
+Dockerfile
+globalConfig.json
+README.MD
